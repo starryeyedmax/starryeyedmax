@@ -1,14 +1,14 @@
 <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"></img> Hi, My Name is Kyrylo Ponomarev.</h1>
 
 <h2>👨🏻‍💻 About Me</h2>
-<h4>🏃 As an ambitious senior full-stack developer specialized in developing lots of software products, I love working with JavaScript/TypeScript.</h4>
-<h4>🔥 My strengths are React/Next.js and Vue.js in fronted and Node.js/Express.js, Python/Django and PHP/Laravel.</h4>
-<h4>⚡ When it comes to database management, I am familiar with both non-relational and relational database.</h4>
-<h4>✨ I have been in software industry for over 7 years and I can cover all the skills required in this job.</h4>
-<h4>🌱 And also I'm focused and efficient learner with practical expertise.</h4>
-<h4>👀 I am looking for a new opportunity now to work with great team mates or a company.</h4>
-<h4>💞️ I always do my best for you – clients.</h4>
-<hr>
+<p>🏃 As an ambitious senior full-stack developer specialized in developing lots of software products, I love working with JavaScript/TypeScript.</p>
+<p>🔥 My strengths are React/Next.js and Vue.js in fronted and Node.js/Express.js, Python/Django and PHP/Laravel.</p>
+<p>⚡ When it comes to database management, I am familiar with both non-relational and relational database.</p>
+<p>✨ I have been in software industry for over 7 years and I can cover all the skills required in this job.</p>
+<p>🌱 And also I'm focused and efficient learner with practical expertise.</p>
+<p>👀 I am looking for a new opportunity now to work with great team mates or a company.</p>
+<p>💞️ I always do my best for you – clients.</p>
+
 <h2>🚀 Hard Skills<h2>
 <div>
   <div style="display: flex; gap: 10px; margin-bottom: 10px;">
@@ -48,7 +48,7 @@
     <img alt="Amazon" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
   </div>
 </div>
-<hr>
+
 <h2>⭐ Soft Skills<h2>
 <div style="display:flex; gap: 10px;">
   <img src="https://img.shields.io/badge/Time%20management-2563eb?style=for-the-badge">
@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/Creative%20thinking-2563eb?style=for-the-badge">
   <img src="https://img.shields.io/badge/Adaptability-2563eb?style=for-the-badge">
 </div>
-<hr>
+
 <h2>⚙️  GitHub Analytics</h2>
 <div>
   <a href="https://github.com/kyryloponomarev">
