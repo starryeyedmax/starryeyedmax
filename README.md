@@ -60,6 +60,14 @@
   <img src="https://img.shields.io/badge/Adaptability-2563eb?style=for-the-badge">
 </div>
 
+<h2>⭐ Work Style<h2>
+```js
+while (doSuccess) {
+	tryAgain();
+	if (Dead) break;
+}
+```
+
 <h2>⚙️  GitHub Analytics</h2>
 <div>
   <a href="https://github.com/starryeyedmax">
