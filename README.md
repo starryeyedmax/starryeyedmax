@@ -1,4 +1,4 @@
-<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"></img> Hi, My Name is Kyrylo Ponomarev.</h1>
+<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"></img> Hi there, Welcome to visit my profile.</h1>
 
 <h2>👨🏻‍💻 About Me</h2>
 <p>🏃 As an ambitious senior full-stack developer specialized in developing lots of software products, I love working with JavaScript/TypeScript.</p>
@@ -62,15 +62,15 @@
 
 <h2>⚙️  GitHub Analytics</h2>
 <div>
-  <a href="https://github.com/kyryloponomarev">
-    <img src="https://github-profile-trophy.vercel.app/?username=kyryloponomarev&title=MultiLanguage,Commits,Stars,Followers,PullRequest" />
+  <a href="https://github.com/starryeyedmax">
+    <img src="https://github-profile-trophy.vercel.app/?username=starryeyedmax&title=MultiLanguage,Commits,Stars,Followers,PullRequest" />
   </a>
 </div>
 <div>
-  <a href="https://github.com/kyryloponomarev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyryloponomarev&langs_count=8&theme=dracula&layout=compact&hide=html,css,scss,makefile,ruby,less,dockerfile,shell" />
+  <a href="https://github.com/starryeyedmax">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starryeyedmax&langs_count=8&theme=dracula&layout=compact&hide=html,css,scss,makefile,ruby,less,dockerfile,shell" />
   </a>
-  <a href="https://github.com/kyryloponomarev">
-    <img src="https://github-readme-stats.vercel.app/api?username=kyryloponomarev&show_icons=true&theme=dracula&include_all_commits=true" />
+  <a href="https://github.com/starryeyedmax">
+    <img src="https://github-readme-stats.vercel.app/api?username=starryeyedmax&show_icons=true&theme=dracula&include_all_commits=true" />
   </a>
 </div>
