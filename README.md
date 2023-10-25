@@ -61,10 +61,11 @@
 </div>
 
 <h2>⭐ Work Style<h2>
+	
 ```js
 while (doSuccess) {
-	tryAgain();
-	if (Dead) break;
+  tryAgain();
+  if (Dead) break;
 }
 ```
 
