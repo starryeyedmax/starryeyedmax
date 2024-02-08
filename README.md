@@ -1,11 +1,11 @@
 <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"></img> Hi there, Welcome to visit my profile.</h1>
 
 <h2>👨🏻‍💻 About Me</h2>
-<p>🏃 As an ambitious senior full-stack developer specialized in developing lots of software products, I love working with JavaScript/TypeScript.</p>
-<p>🔥 My strengths are React/Next.js and Vue.js in fronted and Node.js/Express.js, Python/Django and PHP/Laravel.</p>
-<p>⚡ When it comes to database management, I am familiar with both non-relational and relational database.</p>
-<p>✨ I have been in software industry for over 7 years and I can cover all the skills required in this job.</p>
-<p>🌱 And also I'm focused and efficient learner with practical expertise.</p>
+<p>🏃 11 years of experience in web and mobile development, reliable and scalable distributed cloud software.</p>
+<p>🔥 Gained extensive knowledge and expertise in programming languages such as JavaScript, TypeScript, Python, C# and proficient in various frameworks including React, Next.js, AngularJS, Angular, Express.js, Django, Flask, ASP.NET Core and .NET Framework.</p>
+<p>⚡ Have a strong track record of translating UI/UX designs into clean and maintainable code, optimizing website performance, and ensuring cross-browser compatibility.</p>
+<p>✨ Well-versed in Agile/Scrum methodologies and have experience working with project management tools such as Jira and Bitbucket and familiar with CI/CD pipelines and have deployed applications on cloud services such as AWS, S3, Lambda, GCP, etc.</p>
+<p>🌱 Proactive problem solver with a keen eye for detail with highly motivated and thrive in fast paced environments, consistently delivering projects in time and exceeding expectations.</p>
 <p>👀 I am looking for a new opportunity now to work with great team mates or a company.</p>
 <p>💞️ I always do my best for you – clients.</p>
 
